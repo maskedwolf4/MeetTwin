@@ -2,6 +2,10 @@
 
 MeetTwin is a full-stack AI digital-twin application. Visitors chat with a professional persona through a Next.js interface; a FastAPI backend answers using Groq's OpenAI-compatible API, a curated profile knowledge base, and session-scoped long-term memory retrieved from a FAISS vector database.
 
+## Working screenshot
+
+![MeetTwin chat interface](frontend/public/meettwin.png)
+
 ## What it does
 
 - Presents a responsive chat experience built with Next.js, React, Tailwind CSS, and Markdown rendering.
