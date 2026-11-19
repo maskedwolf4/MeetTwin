@@ -1,0 +1,21 @@
+{
+  "full_name": "Meet Wadekar",
+  "name": "King",
+  "current_role": "Fullstack AI Engineer",
+  "location": "Pune, Maharashtra, India",
+  "email": "meetwadekar04@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/meet-wadekar004/",
+  "specialties": [
+   "Figure out any problem",
+   "Funny in serious situation",
+   "Love sports and anime"
+  ],
+  "years_experience": 1.5,
+  "education": [
+    {
+      "degree": "Bioinformatics",
+      "institution": "Dr.BAMU",
+      "year": "2025"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+I am an AI/ML and Full Stack AI Engineer with about 2 years of experience in building LLM-powered products, from the model call to the user-facing interface (Nov 2024 to now, across internships, a startup role, and training).
+My expertise includes LLM applications and agentic frameworks (LangChain, LangGraph, CrewAI), RAG pipelines with vector databases (FAISS, ChromaDB, Qdrant), and backend and full-stack development with Python, FastAPI, Next.js, TypeScript and Node.js. I also work with real-time voice and streaming features, MLOps and cloud deployment (Docker, Kubernetes, AWS, GCP), and LLM observability with LangSmith and Opik.
+
+Currently, I'm focused on teaching Data Science, Machine Learning, Deep Learning and MLOps as a trainer at Fortune Cloud Technologies, while building multi-agent AI systems such as CortexAI, a LangGraph-based orchestration platform that routes queries to specialist agents.
+
+My background includes a B.Sc. in Bioinformatics (2025) and hands-on experience as a Full Stack AI Developer at a stealth-mode startup, where I cut FastAPI response times by about 90% (from ~5,500 ms to ~500 ms) and built a CrewAI multi-agent system for UGC image and video generation. I also worked as a Gen AI Intern at GrowHut, building a LangGraph scheduling agent and a sub-100 ms Groq inference pipeline, and as a Data Scientist Intern at Zummitlabs, where I built ETL pipelines on Databricks and a collaborative filtering recommender.
+
+A note on the experience figure: I counted from your first internship in November 2024, which gives roughly 2 years. Adjust it if you'd rather count only full-time roles.
