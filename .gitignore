@@ -275,3 +275,4 @@ next-env.d.ts
 .swc
 
 memory/
+.env*
