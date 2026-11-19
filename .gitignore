@@ -275,4 +275,5 @@ next-env.d.ts
 .swc
 
 memory/
+node_modules/
 .env*
